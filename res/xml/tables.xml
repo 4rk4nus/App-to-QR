@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<database name="apps_db" version="1">
+  
+  <table name="apps" to-string="%word%" new-in-version="4">
+    <field name="name" obligatory="true" type="text" size="128"/>
+	<field name="package" obligatory="true" type="text" size="128"/>
+	<field name="icon" obligatory="true" type="text" size="128"/>
+	<field name="type" obligatory="true" type="int" default="0" /> <!-- 0 Favoritas  -  1 Para instalar -->
+  </table>
+  
+ </database>

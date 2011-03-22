@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_actions">
+        <item>Mostrar Código QR</item>
+        <item>Compartir QR</item>
+        <item>Compartir enlace</item>
+        <item>Copiar portapapeles</item>
+        <item>Buscar en el Market</item>
+        <item>Más información</item>
+        <item>Guardar QR en SD Card</item>
+        <item>Añadir a favoritos</item>
+    </string-array>
+    <string-array name="select_actions_others">
+        <item>Mostrar Código QR</item>
+        <item>Compartir QR</item>
+        <item>Compartir enlace</item>
+        <item>Copiar portapapeles</item>
+        <item>Buscar en el Market</item>
+        <item>Más información</item>
+        <item>Guardar QR en SD Card</item>
+        <item>Borrar aplicación</item>
+    </string-array>
+</resources>

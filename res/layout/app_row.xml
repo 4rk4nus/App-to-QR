@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="horizontal" android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:paddingTop="5px" android:paddingBottom="5px">
+	
+    <ImageView
+        android:id="@+id/image"
+        android:paddingRight="10px"
+        android:layout_width="48px" android:layout_height="48px" android:layout_marginLeft="5px" android:layout_marginRight="5px"/>
+	
+	
+	<TextView android:id="@+id/name" xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:textSize="16px"
+		android:textStyle="bold"
+		android:layout_width="fill_parent"
+	    android:text="Nombre" android:gravity="center_vertical" android:layout_height="fill_parent" android:textColor="#FFFFFF"/>
+				
+
+    
+</LinearLayout>

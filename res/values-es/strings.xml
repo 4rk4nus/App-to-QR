@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AppToQR!</string>
+    <string name="app_name">App to QR</string>
+<string name="loading">Cargando...</string>
+<string name="loading_app">Cargando aplicaciones</string>
+<string name="attention">Atención</string>
+<string name="no_barcode">Debe tener instalado el programa Barcode Scanner</string>
+<string name="accept">Aceptar</string>
+<string name="cancel">Cancelar</string>
+<string name="select_action">Seleccionar acción</string>
+<string name="download_now">Descargar ahora</string>
+<string name="share_subject">Esta aplicación para Android te puede interesar</string>
+<string name="share_subject_all">Estas aplicaciones para Android te pueden interesar</string>
+<string name="share_body_name">Nombre:</string>
+<string name="share_body_url">Url:</string>
+<string name="image_save">Código QR guardada correctamente en:</string>
+<string name="share_all">Compartir todo</string>
+<string name="to_clipboard">El enlace ha sido copiado al portapapeles</string>
+<string name="installed">Instaladas</string>
+<string name="favorites">Favoritas</string>
+<string name="for_installed">Por instalar</string>
+<string name="no_favorites">No hay favoritos por el momento</string>
+<string name="no_for_installed">No hay aplicaciones para instalar. Puedes añadir nuevas al compartir desde Android Market y seleccionando "Instalar más tarde"</string>
+<string name="ok_favorites">Aplicación añadida a favoritos satisfactoriamente</string>
+<string name="ok_remove_app">Aplicación borrada satisfactoriamente</string>
+<string name="install_later">Instalar más tarde</string>
+<string name="url_no_valid">La dirección no pertenece a una aplicación de Android Market</string>
+<string name="url_saved">La aplicación ha sido guardada en App to QR</string>
+<string name="package_no_found">No se ha encontrado el paquete:</string>
+<string name="error_generic">Se ha producido un error. Inténtelo más tarde</string>
+<string name="searching">Buscando...</string>
+<string name="searching_app">Buscando aplicación</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_actions">
+        <item>Show QR Code</item>
+        <item>Share QR</item>
+        <item>Share link</item>
+        <item>Copy to Clipboard</item>
+        <item>Search at Market</item>
+        <item>View more info</item>
+        <item>Save QR Code in SD Card</item>
+        <item>Add to favorites</item>
+    </string-array>
+    
+    <string-array name="select_actions_others">
+        <item>Show QR Code</item>
+        <item>Share QR</item>
+        <item>Share link</item>
+        <item>Copy to Clipboard</item>
+        <item>Search at Market</item>
+        <item>View more info</item>
+        <item>Save QR Code in SD Card</item>
+        <item>Remove app</item>
+    </string-array>
+    
+</resources>
