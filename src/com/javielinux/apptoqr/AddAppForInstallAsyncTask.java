@@ -97,7 +97,7 @@ public class AddAppForInstallAsyncTask extends AsyncTask<String, Void, Integer> 
 		System.out.println("Buscando icono");
 		
 		MarketSession session = new MarketSession();
-		session.login("javielinux@gmail.com","jl2002lj");
+		session.login("user@gmail.com","password");
 		
 		GetImageRequest imgReq = GetImageRequest.newBuilder().setAppId(id)
 			.setImageUsage(AppImageUsage.ICON)
